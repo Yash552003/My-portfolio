@@ -1,0 +1,1 @@
+Add your portrait photo here and name it profile.jpg. The portfolio will display it in the hero section.
